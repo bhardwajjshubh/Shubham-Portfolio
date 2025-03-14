@@ -17,7 +17,7 @@ const About = () => {
               <p>Hi. I'm Shubham Kumar, Nice to meet you. Please take a look around.</p>
             </div>
             <div>
-              <p>I am currently pursuing a Master of Computer Application (MCA) with a strong passion for web development. Throughout my academic journey, I have immersed myself in creating dynamic and responsive web applications, building a solid foundation in HTML, CSS, JavaScript, and various front-end frameworks like React. <br/> 
+              <p>I am currently pursuing a Master of Computer Application (MCA) with a strong passion for web development. Throughout my academic journey, I have immersed myself in creating dynamic and responsive web applications, building a solid foundation in Full Stack Development. <br/> 
                I am passionate about building excellent software that improves
               the lives of those around me. I specialize in creating software
               for clients ranging from individuals and small-businesses all the

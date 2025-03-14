@@ -10,7 +10,7 @@ const Navbar = () => {
   const handleClick = () => setNav(!nav);
 
   return (
-    <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-gradient-to-r from-black to-blue-900 text-gray-300'>
+    <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-gradient-to-r from-black to-blue-900 text-gray-300 z-50'>
       <div>
         <h1 className="text-2xl font-bold text-gray-400">Shubham's Portfolio</h1>
       </div>
